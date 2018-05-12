@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18302#L-argent-des-autresII.-La-p-che-en-eau-trouble
 gutenberg_bookshelf:
 - Detective Fiction
 - FR Littérature
