@@ -1,0 +1,33 @@
+_repo: L-argent-des-autresII.-La-p-che-en-eau-trouble_18302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf:
+- Detective Fiction
+- FR Littérature
+gutenberg_issued: '2006-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18302'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: 'L''argent des autres: 2. La pêche en eau trouble'
+url: http://www.gutenberg.org/ebooks/18302
